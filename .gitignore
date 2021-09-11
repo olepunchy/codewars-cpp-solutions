@@ -37,6 +37,10 @@ main
 build/*
 .ccls-cache/*
 */.ccls-cache/*
+*/cmake-build-debug/*
+cmake-build-debug/*
+*/cmake-build-release/*
+cmake-build-release/*
 
 # Jetbrains
 .idea/*
